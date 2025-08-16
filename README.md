@@ -4,6 +4,13 @@
 
 💡 Passionate about building responsive, scalable web applications and engaging user interfaces using modern frontend and backend technologies.  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake.svg" />
+</picture>
+
+
 ---
 
 ## 📌 About Me  
@@ -74,15 +81,7 @@
 </p>  
 
 ---
-## 🐍 Contribution Snake  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Supriya-2505/Supriya-2505/output/github-snake.svg" />
-</picture>
-
----
 
 ## 🌐 Connect With Me  
 
