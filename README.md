@@ -12,7 +12,7 @@
 
 
 ---
-
+  
 ## 📌 About Me  
 - 🎓 **B.Tech in Computer Science** — with a focus on full stack web development.  
 - 💼 Experienced in building **ReactJS frontend** and **Spring Boot backend** applications.  
