@@ -1,6 +1,6 @@
 # Hi there, I'm Supriya 👋  
 
-🚀 **Full Stack Developer | UI/UX Enthusiast | Problem Solver**   
+🚀 **Full Stack Developer | UI/UX Enthusiast | Problem Solver**    
  
 💡 Passionate about building responsive, scalable web applications and engaging user interfaces using modern frontend and backend technologies.  
    
