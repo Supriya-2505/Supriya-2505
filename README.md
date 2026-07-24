@@ -11,7 +11,7 @@
 </picture>
 
 
---- 
+---  
    
 ## 📌 About Me  
 - 🎓 **B.Tech in Computer Science** — with a focus on full stack web development.  
