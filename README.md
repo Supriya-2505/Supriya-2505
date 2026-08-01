@@ -16,7 +16,7 @@
 ## 📌 About Me  
 - 🎓 **B.Tech in Computer Science** — with a focus on full stack web development.  
 - 💼 Experienced in building **ReactJS frontend** and **Spring Boot backend** applications.  
-- 🎨 Keen on **UI/UX**, **design systems**, and **user-centered development**.  
+- 🎨 Keen on **Backend Systems**, **design systems**, and **user-centered development**.  
 - 🛠 Enjoys turning design mockups into functional, pixel-perfect web pages.  
 
 ---
@@ -52,7 +52,7 @@
 - A collection of responsive layouts and mini UI projects.  
 - Focused on clean design and accessibility best practices.  
 
-### [🛍 E-Commerce Frontend](https://github.com/Supriya-2505/Ecommerce)  
+### [🛍 E-Commerce](https://github.com/Supriya-2505/Ecommerce)  
 **ReactJS, Spring Boot, JavaScript**  
 - Full-stack e-commerce prototype with ReactJS frontend and Spring Boot backend.  
 - Dynamic product listing, cart management, and responsive UI.  
