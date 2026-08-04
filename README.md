@@ -1,4 +1,4 @@
-# Hi there, I'm Supriya 👋  
+# Hi there, I'm Supriya 👋   
 
 🚀 **Full Stack Developer | Backend Enthusiast | Problem Solver**      
  
